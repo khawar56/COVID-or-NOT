@@ -1,7 +1,7 @@
 # covid-or-not-
 Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia "kaggel dataset")<br/>
 
-###Key Highlights:
+### Key Highlights:
 <br/> 
 1- Training on TPU (5 hours on gpu to 4 minutes on TPU!! 😳🤯)<br/>
 2- Transfer Learning <br/>
