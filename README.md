@@ -14,7 +14,6 @@ Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://
 2- Inception V3 : *accuracy: 1.0000 - precision: 1.0000 - recall: 1.0000 - val_loss: 0.0933 - val_accuracy: 0.9795 - val_precision: 0.9876 - val_recall: 0.9835*<br/>
 3- Xcpetion : *accuracy: 1.0000 - precision: 1.0000 - recall: 1.0000 - val_loss: 0.0620 - val_accuracy: 0.9785 - val_precision: 0.9917 - val_recall: 0.9782*<br/>
 
-<br/>
 ### To Run:
 Colab notebook is provided simply run the cells to re produce the results. <br/>
 For the WebApp simply create a quick app on anvil, client side code is in the colab note book. Server code is in server file. <br/>
