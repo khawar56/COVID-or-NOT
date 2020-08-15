@@ -1,5 +1,5 @@
 # covid-or-not-
-Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia "kaggel dataset")<br/>
+Make cool Corona Virus detection web app on chest X-Ray images from [Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia "kaggel dataset")<br/>
 
 ### Key Highlights:
 1- Training on TPU (5 hours on gpu to 4 minutes on TPU!! 😳🤯)<br/>
@@ -7,7 +7,7 @@ Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://
 3- Testing three famous CNN architectures (VGG16, InceptionV3 and Xception) 🤓 <br/>
 4- Working with GCS <br/>
 5- Deploying model as a web app with Anvil<br/>
-  [watch this](https://www.youtube.com/watch?v=yh0B4HjQxOU&t=58s "anvil intro & tutorial") for making web app <br/>
+    [*watch this*](https://www.youtube.com/watch?v=yh0B4HjQxOU&t=58s "anvil intro & tutorial") for making web app <br/>
 
 ### Results:
 1- VGG16 : *accuracy: 1.0000 - precision: 1.0000 - recall: 1.0000 - val_loss: 0.0325 - val_accuracy: 0.9873 - val_precision: 0.9972 - val_recall: 0.9849*<br/>
@@ -19,6 +19,8 @@ Colab notebook is provided, simply run the cells to re produce the results <br/>
 For the Web App simply create a quick app on anvil (tutorial link provided above). Client side code is in the colab notebook. Server code is in server file <br/>
 Pretrained VGG16 [model weights](https://drive.google.com/file/d/1EaojfSMs9L2o4P2_9nMFQ8Dr-5Ce-DlL/view?usp=sharing "pre-trained model weights") 
 <br/>
+<br/>
+![image 1 of web app](https://drive.google.com/file/d/1pANI2OTWnQGzg5uFEMOSzPO9RUVw71eo/view?usp=sharing)
 
 #### Enjoy Computer Vision 🥂✌️
 
