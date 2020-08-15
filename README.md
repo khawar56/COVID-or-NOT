@@ -1,4 +1,4 @@
-# covid-or-not-
+# covid or not
 Make cool Corona Virus detection web app on chest X-Ray images from [Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia "kaggel dataset")<br/>
 
 ### Key Highlights:
