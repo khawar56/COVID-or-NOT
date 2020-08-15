@@ -17,7 +17,7 @@ Make cool Corona Virus detection web app on chest X-Ray images from [Pneumonia d
 ### To Run:
 Colab notebook is provided, simply run the cells to re produce the results <br/>
 For the Web App simply create a quick app on anvil (tutorial link provided above). Client side code is in the colab notebook. Server code is in server file <br/>
-Pretrained VGG16 [model weights](https://drive.google.com/file/d/1EaojfSMs9L2o4P2_9nMFQ8Dr-5Ce-DlL/view?usp=sharing "pre-trained model weights") 
+Pretrained VGG16 [model weights ](https://drive.google.com/file/d/1EaojfSMs9L2o4P2_9nMFQ8Dr-5Ce-DlL/view?usp=sharing "pre-trained model weights") 
 <br/>
 <br/>
 ![image 1 of web app](https://drive.google.com/file/d/1pANI2OTWnQGzg5uFEMOSzPO9RUVw71eo/view?usp=sharing)
