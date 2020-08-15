@@ -21,7 +21,6 @@ Pretrained VGG16 [model weights ](https://drive.google.com/file/d/1EaojfSMs9L2o4
 <br/>
 <br/>
 #### Enjoy Computer Vision 🥂✌️
-<br/>
 ![image 1 of web app](images/1.png?raw=true)
 ![image 1 of web app](images/2.png?raw=true)
 
