@@ -7,7 +7,7 @@ Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://
 3- Testing three famous CNN architectures (VGG16, InceptionV3 and Xception) 🤓 <br/>
 4- Working with GCS <br/>
 5- Deploying model as a web app with Anvil<br/>
-   watch [this](https://www.youtube.com/watch?v=yh0B4HjQxOU&t=58s "anvil intro & tutorial") for making web app <br/>
+  [watch this](https://www.youtube.com/watch?v=yh0B4HjQxOU&t=58s "anvil intro & tutorial") for making web app <br/>
 
 ### Results:
 1- VGG16 : *accuracy: 1.0000 - precision: 1.0000 - recall: 1.0000 - val_loss: 0.0325 - val_accuracy: 0.9873 - val_precision: 0.9972 - val_recall: 0.9849*<br/>
@@ -15,9 +15,9 @@ Corona Virus detection from chest x-ray images from [Pneumonia dataset](https://
 3- Xcpetion : *accuracy: 1.0000 - precision: 1.0000 - recall: 1.0000 - val_loss: 0.0620 - val_accuracy: 0.9785 - val_precision: 0.9917 - val_recall: 0.9782*<br/>
 
 ### To Run:
-Colab notebook is provided simply run the cells to re produce the results. <br/>
-For the WebApp simply create a quick app on anvil, client side code is in the colab note book. Server code is in server file. <br/>
-VGG16 [model weights](https://drive.google.com/file/d/1EaojfSMs9L2o4P2_9nMFQ8Dr-5Ce-DlL/view?usp=sharing "pre-trained model weights") 
+Colab notebook is provided, simply run the cells to re produce the results <br/>
+For the Web App simply create a quick app on anvil (tutorial link provided above). Client side code is in the colab notebook. Server code is in server file <br/>
+Pretrained VGG16 [model weights](https://drive.google.com/file/d/1EaojfSMs9L2o4P2_9nMFQ8Dr-5Ce-DlL/view?usp=sharing "pre-trained model weights") 
 <br/>
 
 #### Enjoy Computer Vision 🥂✌️
