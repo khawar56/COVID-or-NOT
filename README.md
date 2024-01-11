@@ -2,7 +2,7 @@
 Make cool Corona Virus detection web app on chest X-Ray images from [Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia "kaggel dataset")<br/>
 
 ### Key Highlights:
-1- Training on TPU (5 hours on gpu to 4 minutes on TPU!! 😳🤯)<br/>
+1- Training on TPU <br/>
 2- Transfer Learning <br/>
 3- Testing three famous CNN architectures (VGG16, InceptionV3 and Xception) 🤓 <br/>
 4- Working with GCS <br/>
